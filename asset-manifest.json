@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/frontend_base_dapp/static/css/main.88046a60.chunk.css",
+    "main.js": "/frontend_base_dapp/static/js/main.03c3228f.chunk.js",
+    "main.js.map": "/frontend_base_dapp/static/js/main.03c3228f.chunk.js.map",
+    "runtime-main.js": "/frontend_base_dapp/static/js/runtime-main.3cf44d70.js",
+    "runtime-main.js.map": "/frontend_base_dapp/static/js/runtime-main.3cf44d70.js.map",
+    "static/js/2.8c9f3b6d.chunk.js": "/frontend_base_dapp/static/js/2.8c9f3b6d.chunk.js",
+    "static/js/2.8c9f3b6d.chunk.js.map": "/frontend_base_dapp/static/js/2.8c9f3b6d.chunk.js.map",
+    "static/js/3.a7bccf65.chunk.js": "/frontend_base_dapp/static/js/3.a7bccf65.chunk.js",
+    "static/js/3.a7bccf65.chunk.js.map": "/frontend_base_dapp/static/js/3.a7bccf65.chunk.js.map",
+    "index.html": "/frontend_base_dapp/index.html",
+    "static/css/main.88046a60.chunk.css.map": "/frontend_base_dapp/static/css/main.88046a60.chunk.css.map",
+    "static/js/2.8c9f3b6d.chunk.js.LICENSE.txt": "/frontend_base_dapp/static/js/2.8c9f3b6d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cf44d70.js",
+    "static/js/2.8c9f3b6d.chunk.js",
+    "static/css/main.88046a60.chunk.css",
+    "static/js/main.03c3228f.chunk.js"
+  ]
+}
