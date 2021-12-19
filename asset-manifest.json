@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/frontend_base_dapp/static/css/main.35648a7c.chunk.css",
-    "main.js": "/frontend_base_dapp/static/js/main.60fa9da2.chunk.js",
-    "main.js.map": "/frontend_base_dapp/static/js/main.60fa9da2.chunk.js.map",
+    "main.js": "/frontend_base_dapp/static/js/main.6b76ef44.chunk.js",
+    "main.js.map": "/frontend_base_dapp/static/js/main.6b76ef44.chunk.js.map",
     "runtime-main.js": "/frontend_base_dapp/static/js/runtime-main.3cf44d70.js",
     "runtime-main.js.map": "/frontend_base_dapp/static/js/runtime-main.3cf44d70.js.map",
-    "static/js/2.0f556c12.chunk.js": "/frontend_base_dapp/static/js/2.0f556c12.chunk.js",
-    "static/js/2.0f556c12.chunk.js.map": "/frontend_base_dapp/static/js/2.0f556c12.chunk.js.map",
+    "static/js/2.cdce3789.chunk.js": "/frontend_base_dapp/static/js/2.cdce3789.chunk.js",
+    "static/js/2.cdce3789.chunk.js.map": "/frontend_base_dapp/static/js/2.cdce3789.chunk.js.map",
     "static/js/3.a7bccf65.chunk.js": "/frontend_base_dapp/static/js/3.a7bccf65.chunk.js",
     "static/js/3.a7bccf65.chunk.js.map": "/frontend_base_dapp/static/js/3.a7bccf65.chunk.js.map",
     "index.html": "/frontend_base_dapp/index.html",
     "static/css/main.35648a7c.chunk.css.map": "/frontend_base_dapp/static/css/main.35648a7c.chunk.css.map",
-    "static/js/2.0f556c12.chunk.js.LICENSE.txt": "/frontend_base_dapp/static/js/2.0f556c12.chunk.js.LICENSE.txt"
+    "static/js/2.cdce3789.chunk.js.LICENSE.txt": "/frontend_base_dapp/static/js/2.cdce3789.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3cf44d70.js",
-    "static/js/2.0f556c12.chunk.js",
+    "static/js/2.cdce3789.chunk.js",
     "static/css/main.35648a7c.chunk.css",
-    "static/js/main.60fa9da2.chunk.js"
+    "static/js/main.6b76ef44.chunk.js"
   ]
 }
